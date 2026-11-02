@@ -9,9 +9,8 @@
 </a>
 
 <p align="center">
-  <a href="https://psmkhere.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-psmkhere.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/srimanikanta-pothu/"><img src="https://img.shields.io/badge/LinkedIn-Srimanikanta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:srimanikantapothu@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://psmkhere.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/srimanikanta-pothu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -25,7 +24,6 @@
 ### 📌 About Me
 
 * 🔭 **I'm currently working on:** Building full-stack web applications and browser extensions.
-* 🌱 **I'm currently learning:** Advanced backend architecture, TypeScript, and modern AI/ML integration.
 * 🌐 **Open Source:** Actively contributing to open-source software, collaborative Git initiatives, and developer community projects.
 * 👯 **I'm looking to collaborate on:** Real-world web development, developer tools, and impactful open-source ideas.
 * 💬 **Ask me about:** JavaScript, Python, full-stack development, and open-source contribution.
