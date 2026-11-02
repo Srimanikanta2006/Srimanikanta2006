@@ -26,25 +26,28 @@
 
 * 🔭 **I'm currently working on:** Building full-stack web applications and browser extensions.
 * 🌱 **I'm currently learning:** Advanced backend architecture, TypeScript, and modern AI/ML integration.
-* 👯 **I'm looking to collaborate on:** Real-world web development and AI-powered project ideas.
-* 💬 **Ask me about:** JavaScript, Python, full-stack development, and building efficient applications.
+* 🌐 **Open Source:** Actively contributing to open-source software, collaborative Git initiatives, and developer community projects.
+* 👯 **I'm looking to collaborate on:** Real-world web development, developer tools, and impactful open-source ideas.
+* 💬 **Ask me about:** JavaScript, Python, full-stack development, and open-source contribution.
 * 📫 **How to reach me:** [srimanikantapothu@gmail.com](mailto:srimanikantapothu@gmail.com)
-* ⚡ **Fun fact:** I once watched all of Naruto Shippuden and now juggle coding, riding, and manga like a real-life multitasking ninja!
 
 ---
 
-### 📊 GitHub Activity
+### 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Srimanikanta2006&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srimanikanta2006&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0d1117" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srimanikanta2006&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" width="55%" />
+<img src="https://raw.githubusercontent.com/Srimanikanta2006/Srimanikanta2006/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
 
 </div>
+
+---
+
+### ⚡ Beyond the Terminal
+
+| 🏍️ The Ride | 🎧 The Vibe | ☕ The Craft |
+| :--- | :--- | :--- |
+| Hitting open roads on two wheels and exploring new routes | Lo-fi beats, music, and immersive coding sessions | Tinkering with side projects and learning through building |
 
 ---
 
